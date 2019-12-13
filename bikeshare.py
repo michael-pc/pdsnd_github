@@ -8,10 +8,27 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
 
-months = ('january', 'february', 'march', 'april', 'may', 'june','july','auguest','septemper','october','novermber','december')
 
-weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
+
+months = ('january', 'february', 'march', 'april',
+          'may', 'june'
+          ,'july'
+          ,'auguest'
+          ,'septemper'
+          ,'october',
+          'novermber')
+          
+
+weekdays = ('sunday'
+            , 'monday'
+            , 'tuesday'
+            , 'wednesday'
+            , 'thursday', 'friday',
             'saturday')
+
+
+
+
 
 
 def choice(prompt, choices=('y', 'n')):

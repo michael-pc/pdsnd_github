@@ -5,13 +5,13 @@
 bike regulation
 
 #Description:
-the Most visited and regular days of using bikes
+regular days of using bikes
 
 #Files used:
-bike share.py
-washonton.csv
-chicagho.csv
-newyork.csv
+bike share.py,
+washonton.csv,
+chicagho.csv,
+newyork.csv.
 
 
 
